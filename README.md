@@ -37,7 +37,12 @@ Payment Mode Split: A colorful pie chart analyzing customer preferences across U
 
 Trend Analysis: Line and bar charts showing sales over specific days of the week, monthly quantity spikes, and customer rating breakdowns.
 
-How to Interact with the Report
+### 5.How to Interact with the Report
 Open the .pbix project file inside Power BI Desktop.
 
 Use the left-side month buttons or top slicers (Brand, Payment Method) to filter data instantly!
+
+### 📈 Dashboard Preview The final interactive dashboard highlighting KPIs, demographic breakdowns, and category performance.
+Dashboard image link :
+
+PDF link :
