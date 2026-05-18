@@ -43,6 +43,6 @@ Open the .pbix project file inside Power BI Desktop.
 Use the left-side month buttons or top slicers (Brand, Payment Method) to filter data instantly!
 
 ### 📈 Dashboard Preview The final interactive dashboard highlighting KPIs, demographic breakdowns, and category performance.
-Dashboard image link :
+Dashboard image link :https://github.com/Maheen-Sheikh2005/Mobile-Phone-Sales-Performance-analysis/blob/main/Screenshot%20(54).png
 
-PDF link :
+PDF link :https://github.com/Maheen-Sheikh2005/Mobile-Phone-Sales-Performance-analysis/blob/main/Mobile%20Phone%20Sales%20Performance%20document.pdf
